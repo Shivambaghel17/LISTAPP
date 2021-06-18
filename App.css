@@ -1,0 +1,17 @@
+body {
+  background-color: #b3e5fc;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.div1 {
+  display: flex;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+i {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 20px;
+}
